@@ -1,17 +1,97 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/10ab2065ff7a4b0591fcb3a8f607f5ed/2000.m3u8
-#EXTINF:-1 ,Unknown_2
-https://dh5.cntv.baishancdnx.cn/asp/h5e/hls/2000/0303000a/3/default/d37da9e27df84615b47ced5b66efcf4f/2000.m3u8
-#EXTINF:-1 ,Unknown_3
-https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/a48c161118904955ba66e30aa3fd88f0/2000.m3u8
-#EXTINF:-1 ,Unknown_4
-https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/48299c0ba5b443e29564c00acb5f2a87/2000.m3u8
-#EXTINF:-1 ,Unknown_5
-http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 ,Unknown_8
-http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 ,Unknown_37
+#EXTINF:-1 group-title="央视",央视8k
+http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231468/index.m3u8
+#EXTINF:-1 ,CCTV2
+http://117.148.179.147/PLTV/88888888/224/3221231678/index.m3u8
+#EXTINF:-1 ,CCTV3
+http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 ,CCTV4
+http://39.130.202.76:6610/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+#EXTINF:-1 ,CCTV4K超高清
 http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 ,Unknown_58
-http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
+#EXTINF:-1 ,CCTV5+
+http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 ,CCTV6
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 ,CCTV7
+http://183.207.249.36/PLTV/4/224/3221227314/index.m3u8
+#EXTINF:-1 ,CCTV8
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
+#EXTINF:-1, CCTV9
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV10
+http://117.148.179.165/PLTV/88888888/224/3221232492/index.m3u8
+#EXTINF:-1 ,CCTV11
+http://117.148.179.164/PLTV/88888888/224/3221231711/index.m3u8
+#EXTINF:-1 ,CCTV12
+http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 ,CCTV13
+http://183.207.249.14/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 ,CCTV14
+http://111.12.101.23:6610/PLTV/77777777/224/3221225648/index.m3u8?
+#EXTINF:-1 ,CCTV15
+http://111.12.101.23:6610/PLTV/77777777/224/3221225830/index.m3u8?
+#EXTINF:-1 ,CCTV16
+http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#EXTINF:-1 ,CCTV17
+http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?
+#EXTINF:-1 ,CETV1
+http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
+#EXTINF:-1 ,CETV2
+http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
+#EXTINF:-1 ,凤凰
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 ,凤凰HD
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 ,HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 ,江苏卫视
+http://111.12.101.23:6610/PLTV/77777777/224/3221225636/index.m3u8?
+#EXTINF:-1 group-title="中国卫视",浙江卫视 高清
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 ,东方卫视
+http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 ,北京卫视
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 ,上海纪实人文 5M1080
+http://39.134.19.252:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,北京冬奥纪实 3M1080
+http://39.134.19.252:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,湖南金鹰纪实 8M1080
+http://39.134.19.252:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 ,CNC
+http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+#EXTINF:-1 group-title="中国央视",CNC 中文
+http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+#EXTINF:-1 group-title="中国央视",CNC 英文
+http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+#EXTINF:-1 group-title="", 四海钓鱼
+http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
+#EXTINF:-1 group-title="", CCTV世界地理
+http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
+#EXTINF:-1 group-title="", CCTV风云剧场
+http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
+#EXTINF:-1 group-title="", CCTV央视文化精品
+http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
+#EXTINF:-1 ,金鹰卡通 (1080p)
+http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+#EXTINF:-1 ,CHC高清影院HD
+http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
+#EXTINF:-1 ,CHC家庭影院HD
+http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
+#EXTINF:-1 ,CHC动作电影HD
+http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 ,超级综艺
+http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 ,探索发现
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 ,全纪实
+http://iptv.tvfix.org/hls/qjshd.m3u8
+#EXTINF:-1 ,好多专用频道
+http://iptv.tvfix.org/hls/hhxdhd.m3u8
