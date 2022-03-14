@@ -99,3 +99,5 @@ http://iptv.tvfix.org/hls/hhxdhd.m3u8
 http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8
 #EXTINF:-1,group-title="卫视",江西卫视
 http://111.40.196.9/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:-1,彩虹台
+rtmp://125.227.196.250:1935/live/Rainbowmovie
