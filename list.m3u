@@ -39,45 +39,45 @@ http://111.12.101.23:6610/PLTV/77777777/224/3221225830/index.m3u8?
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 ,group-title="央视",CCTV17
 http://111.12.101.23:6610/PLTV/77777777/224/3221225513/index.m3u8?
-#EXTINF:-1 ,CETV1
+#EXTINF:-1 ,group-title="央视",CETV1
 http://117.148.179.156/PLTV/88888888/224/3221231714/index.m3u8
-#EXTINF:-1 ,CETV2
+#EXTINF:-1 ,group-title="央视",CETV2
 http://117.148.179.162/PLTV/88888888/224/3221231607/index.m3u8
-#EXTINF:-1 ,凤凰
+#EXTINF:-1 ,group-title="香港",凤凰
 http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 ,凤凰HD
+#EXTINF:-1 ,group-title="香港",凤凰HD
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 ,HKS
+#EXTINF:-1 ,group-title="香港",HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 ,group-title="卫视",江苏卫视
 http://111.12.101.23:6610/PLTV/77777777/224/3221225636/index.m3u8?
-#EXTINF:-1 group-title="中国卫视",浙江卫视 高清
+#EXTINF:-1 ,group-title="卫视",浙江卫视 高清
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 ,group-title="卫视",东方卫视
 http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 ,group-title="卫视",北京卫视
 http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 ,group-title="卫视",湖南卫视
 http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 ,上海纪实人文 5M1080
+#EXTINF:-1 ,group-title="卫视",上海纪实人文 5M1080
 http://39.134.19.252:6610/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,北京冬奥纪实 3M1080
+#EXTINF:-1 ,group-title="卫视",北京冬奥纪实 3M1080
 http://39.134.19.252:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 ,湖南金鹰纪实 8M1080
+#EXTINF:-1 ,group-title="卫视",湖南金鹰纪实 8M1080
 http://39.134.19.252:6610/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,CNC
 http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-#EXTINF:-1 group-title="中国央视",CNC 中文
+#EXTINF:-1 group-title="央视",CNC 中文
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-#EXTINF:-1 group-title="中国央视",CNC 英文
+#EXTINF:-1 group-title="央视",CNC 英文
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 #EXTINF:-1 group-title="", 四海钓鱼
 http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8
-#EXTINF:-1 group-title="", CCTV世界地理
+#EXTINF:-1 group-title="央视", CCTV世界地理
 http://117.148.179.156/PLTV/88888888/224/3221231537/index.m3u8
-#EXTINF:-1 group-title="", CCTV风云剧场
+#EXTINF:-1 group-title="央视", CCTV风云剧场
 http://117.148.179.162/PLTV/88888888/224/3221231604/index.m3u8
-#EXTINF:-1 group-title="", CCTV央视文化精品
+#EXTINF:-1 group-title="央视", CCTV央视文化精品
 http://117.148.179.147/PLTV/88888888/224/3221231561/index.m3u8
 #EXTINF:-1 ,金鹰卡通 (1080p)
 http://124.232.233.17:6610/000000001001/201600020009/1400.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
