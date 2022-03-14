@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/10ab2065ff7a4b0591fcb3a8f607f5ed/2000.m3u8
+#EXTINF:-1 ,Unknown_2
+https://dh5.cntv.baishancdnx.cn/asp/h5e/hls/2000/0303000a/3/default/d37da9e27df84615b47ced5b66efcf4f/2000.m3u8
+#EXTINF:-1 ,Unknown_3
+https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/a48c161118904955ba66e30aa3fd88f0/2000.m3u8
+#EXTINF:-1 ,Unknown_4
+https://dh5.cntv.kcdnvip.com/asp/h5e/hls/2000/0303000a/3/default/48299c0ba5b443e29564c00acb5f2a87/2000.m3u8
+#EXTINF:-1 ,Unknown_5
+http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+#EXTINF:-1 ,Unknown_8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 ,Unknown_37
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:-1 ,Unknown_58
+http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
